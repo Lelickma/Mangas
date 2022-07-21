@@ -1,0 +1,42 @@
+ul{
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+li{
+	display: inline-block;
+	margin: 5px;
+
+}
+span{
+	display: block;
+}
+
+.blue{
+	color: blue;
+}
+
+.purple{
+	color: purple;
+}
+
+.brown{
+	color: brown;
+}
+
+.red{
+	color: red;
+}
+
+
+body{
+	background-color: lightblue;
+}
+
+img{
+
+	width: 450px;
+	height: 300px;
+	transition: all 1s;
+}
